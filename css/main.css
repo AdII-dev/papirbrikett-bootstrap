@@ -1,0 +1,39 @@
+body{
+    background-image: url(../images/hatterkep.png);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+p{              
+    text-align: justify;
+}
+#brikettek{
+    width: 90%;
+    max-width: 500px;
+  }
+  
+.bevezeto{
+    margin: 10px 200px;
+    text-align: center;
+    background-color: #EBEBEB;
+    padding: 10px 35px;
+    font-size: 75%;
+    border-top: 1px solid #3f4f5f;
+    border-bottom: 1px solid #3F4F5F;
+  }
+
+#presek{
+    float: right;
+    background-color: #EBEBEB;
+    width: 230px;
+    margin: 0px 15px;
+    text-align: center;
+    font-style: italic;
+    font-size: 75%;
+    padding: 5px;
+    border-left: 1px solid #3F4F5F;
+    border-right: 1px solid #3F4F5F;
+  }
